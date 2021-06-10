@@ -1,0 +1,29 @@
+Command Line Arguments:
+     dir = uploaded_images/ 
+    arch = resnet 
+ dogfile = dognames.txt
+['dog', '01.jpg']
+Filename =  dog_01.jpg    Pet Label =  dog
+
+Pet Image Label Dictionary has 1 key-value pairs.
+Below are 1 of them:
+ 1 key:                     dog_01.jpg  label:                        dog
+
+     MATCH:
+
+ NOT A MATCH:
+
+                    dog_01.jpg: 
+Real:                        dog   Classifier:        bloodhound, sleuthhound
+
+# Total Images 1 # Matches: 0 # NOT Matches: 1
+
+     MATCH:
+
+ NOT A MATCH:
+
+                    dog_01.jpg: 
+Real:                        dog   Classifier:        bloodhound, sleuthhound  
+PetLabelDog: 1  ClassLabelDog: 1
+
+# Total Images 1 # Matches: 0 # NOT Matches: 1
